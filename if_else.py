@@ -1,4 +1,4 @@
-#Numbers are taken from user and compared20
+#Numbers are taken from user and compared
 a=int(input("Enter your marks: "))
 b=int(input("Enter your marks: "))
 if(a==b):
